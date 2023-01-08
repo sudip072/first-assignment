@@ -3,7 +3,7 @@
   font-family: 'Work Sans', sans-serif;
 
 }
-/* header section styles starts from here */
+/* header section styles  */
 .header {
   background-image: url("../images/banner/banner2.png");
   background-size: cover;
@@ -36,14 +36,14 @@
   border-radius: 5px;
   padding: 20px 25px;
 }
-/* header section styles ends here */
+/* header section styles ends */
 
-/* main starts from here */
+/* main styles starts from here */
 main {
   margin-left: 230px;
   margin-right: 230px;
 }
-/* section-1 start */
+/* section-1 styles start */
 .section-1 {
   display: flex;
   margin-top: 130px;
@@ -75,8 +75,9 @@ main {
 .section-1-icon {
   color: rgba(22, 216, 135, 100%);
 }
-/* section-1 ends */
-/* section-2 starts */
+/* section-1 styles ends */
+
+/* section-2 styles starts */
 .section-2 {
   margin-bottom: 125px;
 }
@@ -105,9 +106,9 @@ main {
   font-size: 15px;
   font-weight: 500;
 }
-/* section-2 ends  */
+/* section-2 styles ends  */
 
-/* section-3 starts */
+/* section-3 styles starts */
 .section-3 {
   background-image: url("../images/watch.png"), url("../images/gradient2.png");
   background-blend-mode: soft-light;
@@ -137,11 +138,11 @@ main {
   margin-top: 16px;
   font-weight: 600;
 }
-/* section-3 ends */
+/* section-3 styles ends */
 
-/* main ends here */
+/* main styles ends here */
 
-/* footer starts here */
+/* footer styles starts here */
 footer {
   display: flex;
   align-items: flex-start;
@@ -185,4 +186,4 @@ footer {
   font-weight: 600;
 }
 
-/* footer ends here */
+/* footer styles ends here */
